@@ -1,9 +1,9 @@
-import Image from "next/image";
+import Minicard from "~/components/sectionMinicard";
+import Testimoni from "~/components/sectionTestimoni";
 
 export default function Home() {
   return (
     <div>
-      Hello
     </div>
   );
 }
